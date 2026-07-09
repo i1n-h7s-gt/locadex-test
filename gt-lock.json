@@ -1,3 +1,24 @@
 {
-  "locadexModifiedAt": 1783561573775
+  "version": 2,
+  "branchId": "brc_z89leoetzxkqy00snp5yqh2i",
+  "entries": [
+    {
+      "fileId": "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d",
+      "versionId": "ea322b5c7c4bfc5ded11461046b9c7806c6585a6cb021bc67cfa69c202e7520f",
+      "translations": {
+        "es": {
+          "updatedAt": "2026-07-09T01:54:28.644Z",
+          "fileName": "public/_gt/es.json",
+          "postProcessHash": "dc5ac9ec1b6d390ed4ef6c432b9432d84c7ba509ee5eee633684159a95d935d0"
+        },
+        "ja": {
+          "updatedAt": "2026-07-09T01:54:28.644Z",
+          "fileName": "public/_gt/ja.json",
+          "postProcessHash": "b8bacea608e65de9975576508281b8d891f9e6d6a6810c060c8e07639acf834d"
+        }
+      },
+      "fileName": "__INTERNAL_GT_TEMPLATE_NAME__",
+      "staged": false
+    }
+  ]
 }
