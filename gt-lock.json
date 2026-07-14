@@ -4,17 +4,17 @@
   "entries": [
     {
       "fileId": "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d",
-      "versionId": "d6d40f828337004fddd31d160228305b3ac72a734aea575990cfe3eebd02d198",
+      "versionId": "e25d5071dd9c89ac09dbb51a3272cfdb4d9983bd41a3bf7ec980b90163db2884",
       "translations": {
         "es": {
-          "updatedAt": "2026-07-14T18:08:03.387Z",
+          "updatedAt": "2026-07-14T18:21:33.137Z",
           "fileName": "public/_gt/es.json",
-          "postProcessHash": "287edc1e433632be54aa764ffbd988eebac7a1f5f8c3724ff8548d0882403768"
+          "postProcessHash": "698aec02b27147abd71271a7cdcb6874e9353ea826c0577eb414eaa9bf007b5a"
         },
         "ja": {
-          "updatedAt": "2026-07-14T18:08:03.389Z",
+          "updatedAt": "2026-07-14T18:21:33.138Z",
           "fileName": "public/_gt/ja.json",
-          "postProcessHash": "c8e21513563eb80fac3a5b63b2cbcae7b9c32854bad6bc730a294fc6995f22e7"
+          "postProcessHash": "32ab608dd2694f12fa6fc36f810a4b221edfea0b606edc3e02e130608053cd36"
         }
       },
       "fileName": "__INTERNAL_GT_TEMPLATE_NAME__",
