@@ -11,5 +11,6 @@
     }
   },
   "framework": "next-app",
-  "_versionId": "ea322b5c7c4bfc5ded11461046b9c7806c6585a6cb021bc67cfa69c202e7520f"
+  "_versionId": "468e3d80d92957c92ccd7f2e66f4a74575ac3986fcbe665756118dd5eeb52ef2",
+  "baseUrl": "https://ian-api.gt-proxy.com"
 }
